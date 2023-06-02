@@ -1,2 +1,2 @@
 # Repo-for-GUI
-Repositiry for GUI
+Repository for GUI
